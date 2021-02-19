@@ -1,5 +1,5 @@
 // connects "Age check" button to "checking" function
-document.getElementById('button').addEventListener('click', checking )
+document.getElementById('button').addEventListener('click', checking)
 let userAge = 0
 
 function checking () {
